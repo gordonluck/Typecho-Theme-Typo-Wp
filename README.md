@@ -16,6 +16,6 @@ No demo
 ### 2017-06-12 Ver.0.1.0
 1. First version.
 
-### Welcome my blog！
+### Welcome to my blog！
 
 [芝麻的小站](http://ccizm.me)
