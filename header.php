@@ -13,7 +13,7 @@
         ), '', ' - '); ?><?php $this->options->title(); ?></title>
     <link rel="stylesheet" type="text/css" media="all" href="<?php $this->options->themeUrl('css/app.css'); ?>" />
     <link rel="stylesheet" type="text/css" media="all" href="<?php $this->options->themeUrl('css/grid.css'); ?>" />
-    <link rel="stylesheet" type="text/css" media="all" href="<?php $this->options->themeUrl('css/index.css'); ?>" />
+    <link rel="stylesheet" type="text/css" media="all" href="<?php $this->options->themeUrl('css/typo.css'); ?>" />
     <link rel="shortcut icon" type="image/x-icon" href="<?php $this->options->themeUrl('favicon.ico'); ?>" />
     <?php $this->header(); ?>
   </head>
