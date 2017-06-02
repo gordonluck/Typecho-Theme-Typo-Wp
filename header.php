@@ -15,6 +15,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="<?php $this->options->themeUrl('css/grid.css'); ?>" />
     <link rel="stylesheet" type="text/css" media="all" href="<?php $this->options->themeUrl('css/index.css'); ?>" />
     <link rel="shortcut icon" type="image/x-icon" href="<?php $this->options->themeUrl('favicon.ico'); ?>" />
+    <?php $this->header(); ?>
   </head>
   <body>
     <!--[if !IE]><div class="browsehappy">当前网页 <strong>不支持</strong> 你正在使用的浏览器. 为了正常的访问, 请 <a href="http://browsehappy.com/">升级你的浏览器</a>.</div><![endif]-->
